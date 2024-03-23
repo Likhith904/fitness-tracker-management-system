@@ -117,8 +117,7 @@ const PORT = process.env.PORT || 5000;
 
 mongoose
   .connect(
-    process.env.MONGODB_URI ||
-      "mongodb+srv://dlikhith81:likhith%40904@cluster0.aae1qy1.mongodb.net/",
+    process.env.MONGODB_URI,
     mongoParams
   )
   .then(() => {
