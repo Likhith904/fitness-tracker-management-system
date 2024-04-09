@@ -1,5 +1,5 @@
 {
-  "name": "fitness tracker",
+  "name": "fitness_tracker",
   "version": "1.0.0",
   "description": "fitness tracker app",
   "main": "index.js",
