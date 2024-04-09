@@ -1,7 +1,7 @@
 {
   "name": "mongoose_skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "fitness tracker app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "",
+  "author": "likhith",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
