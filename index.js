@@ -122,7 +122,6 @@ mongoose
       console.log(
         `==> 🌎  Listening on port ${PORT}. Visit http://localhost:${PORT} in your browser.`
       );
-      console.log(process.env.MONGODB_URI);
     });
   })
   .catch((err) => {
